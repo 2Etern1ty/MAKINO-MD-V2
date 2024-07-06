@@ -17,7 +17,7 @@ global.groupevent = true;                //This is the new variable for controll
 global.statusseen = false;                 //make true to view statuses 
 
 
-global.Owner = ["eternal"];
+global.Owner = ["237679179629"];
 global.OwnerNumber = ["237679179629"];
 global.ownertag = [""]; 
 global.OwnerName =  "ETernal";
